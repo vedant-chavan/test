@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.868" height="86.868" viewBox="0 0 86.868 86.868">
+  <g id="Group_6576" data-name="Group 6576" transform="translate(-1027 -920.934)">
+    <path id="Path_5672" data-name="Path 5672" d="M0,0H34.949V34.949H0Z" transform="translate(1053.464 946.893)" fill="none"/>
+    <g id="Group_5806" data-name="Group 5806" transform="translate(1029 922.934)">
+      <text id="_" data-name="₹" transform="translate(31.075 55.573)" fill="#4a73fb" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₹</tspan></text>
+      <circle id="Ellipse_409" data-name="Ellipse 409" cx="41.434" cy="41.434" r="41.434" transform="translate(0 0)" fill="none" stroke="#9f9f9f" stroke-width="4" opacity="0.37"/>
+      <path id="Path_4389" data-name="Path 4389" d="M238.434,197c19.26.512,41.434,16.685,41.434,41.434a41.434,41.434,0,0,1-82.868,0" transform="translate(-197 -197)" fill="none" stroke="#000" stroke-width="4"/>
+      <text id="_2" data-name="₹" transform="translate(31.075 55.573)" fill="#303030" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₹</tspan></text>
+    </g>
+  </g>
+</svg>

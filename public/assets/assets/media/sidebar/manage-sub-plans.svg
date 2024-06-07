@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="21" viewBox="0 0 17 21">
+  <defs>
+    <filter id="Rectangle_11" x="0" y="0" width="17" height="21" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-19 -228)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 19, 228)" filter="url(#Rectangle_11)">
+        <rect id="Rectangle_11-2" data-name="Rectangle 11" width="17" height="21" fill="#fff"/>
+      </g>
+      <g id="Rectangle_11-3" data-name="Rectangle 11" transform="translate(19 228)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="17" height="21" stroke="none"/>
+        <rect x="0.5" y="0.5" width="16" height="20" fill="none"/>
+      </g>
+    </g>
+    <g id="india-rupee-currency-symbol-svgrepo-com" transform="translate(22.364 232.486)">
+      <path id="Path_39" data-name="Path 39" d="M74.718,2.886h-1a3.144,3.144,0,0,0-.59-1.545h1.592a.67.67,0,1,0,0-1.34H66.649a.67.67,0,1,0,0,1.34h3.06a2.221,2.221,0,0,1,2.245,1.545H66.649a.69.69,0,0,0,0,1.381h5.237a2.423,2.423,0,0,1-2.464,1.4H67.245a.673.673,0,0,0,0,1.346h.791l.009,0h1.249c1.357.052,1.96.64,2.306,2.25.271,1.2.47,1.974.627,2.441a3.365,3.365,0,0,0,.753,1.47.811.811,0,0,0,1.18-1.111.065.065,0,0,0,0-.012A19.455,19.455,0,0,1,73.244,8.8,3.121,3.121,0,0,0,71.59,6.387a3.219,3.219,0,0,0,2.02-2.121h1.108a.69.69,0,0,0,0-1.38Z" transform="translate(-65.959 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
